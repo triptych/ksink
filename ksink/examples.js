@@ -117,8 +117,8 @@ export const examples = {
     ],
     'AI': [
         {
-            title: 'Chat with GPT-3.5 Turbo',
-            description: 'Send a message to GPT-3.5 Turbo and get a response',
+            title: 'Chat with GPT-4o Mini',
+            description: 'Send a message to GPT-4o Mini and get a response',
             run: async (container) => {
                 const output = createOutputElement();
                 container.appendChild(output);
